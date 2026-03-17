@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Economics graduate with an accounting background.<br>
-🔧 Tech enthusiast since 2009 (started with phone repair).<br>
+🔧 Tech enthusiast since 2009 (started with phone softweare).<br>
 📺 Tech YouTuber behind <strong>"Qarinly"</strong>.<br>
 📊 Currently learning Data Analysis & Business Intelligence.<br>
 🧠 Analysis and problem solving are my principles — helping people make the right decisions is my happiness.<br>
