@@ -14,7 +14,7 @@
 <h2 align="left">🧑‍💻 About Me</h2>
 
 <p align="left">
-💼 Role: Accountant | Tech YouTuber (Qarinly) | Data & Business Analyst.<br>
+💼 Role: Data & Business Analyst.<br>
 🧠 Interests: Business Intelligence, Data Analysis, and Data Science.<br>
 💻 Languages : Python (passion), Power Bi, SQL, HTML, CSS, JavaScript.
 </p>
