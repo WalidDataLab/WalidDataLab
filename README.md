@@ -16,7 +16,7 @@
 <p align="left">
 💼 Role: Data & Business Analyst.<br>
 🧠 Interests: Business Intelligence, Data Analysis, and Data Science.<br>
-💻 Languages : Python (passion), Power Bi, SQL, HTML, CSS, JavaScript.
+💻 Languages : Python (passion), Power Bi, MySQL, PostgreSQL,Excel (Power Query, DAX), HTML, CSS, JavaScript,VSCode.
 </p>
 
 ---
