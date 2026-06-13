@@ -93,3 +93,40 @@
 </a>
 
 </div>
+
+# 🛠️ Technical Stack
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28"/> Python
+
+- **Data Analysis:** Pandas, NumPy, SciPy
+- **Automation:** Selenium, Playwright, BeautifulSoup, PyAutoGUI, xlwings, OpenPyXL
+- **Web Development:** Flask
+- **App Development:** PyQt5, Tkinter
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28"/> SQL & Databases
+
+- **Expertise:** 300+ problems solved
+- **Databases:** MySQL, PostgreSQL, Snowflake
+- **Advanced:** Query optimization, ETL pipelines
+
+---
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="28" height="28"/> Advanced Excel
+
+- **Advanced Formulas:** XLOOKUP, VLOOKUP, INDEX-MATCH
+- **Automation:** VBA scripting, xlwings, OpenPyXL
+- **Transformations:** Power Query
+- **Visualization:** Dynamic dashboards, Pivot Tables
+
+---
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="28" height="28"/> Power BI
+
+- **Formulas:** DAX
+- **Reports:** Interactive reports
+- **Modeling:** Data modeling
+- **Transformation:** Power Query
