@@ -15,8 +15,8 @@
 
 <p align="left">
 💼 Role: Data & Business Analyst.<br>
-🧠 Interests: Business Intelligence, Data Analysis, and Data Science.<br>
-💻 Languages : Python (passion), Power Bi, MySQL, PostgreSQL,Excel (Power Query, DAX), HTML, CSS, JavaScript,VSCode.
+🧠 Interests:  Data Analysis, Business Intelligence.<br>
+💻 Languages : Python , Power Bi, MySQL, PostgreSQL,Excel (Power Query, DAX), HTML, CSS, JavaScript,VSCode.
 </p>
 
 ---
@@ -46,17 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"/>
 <img width="28"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"/>
-<img width="28"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"/>
-<img width="28"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"/>
-<img width="28"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"/>
-<img width="28"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"/>
 
