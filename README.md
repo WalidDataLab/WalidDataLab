@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Walid! Data Analyst </h1>
+<h1 align="center">👋 Hey there, I'm Walid ! Data Analyst </h1>
 
 <p align="center">
 🎓 Economics graduate with an accounting background.<br>
