@@ -14,7 +14,7 @@
 <h2 align="left">🧑‍💻 About Me</h2>
 
 <p align="left">
-💼 Role: Data & Business Analyst.<br>
+💼 Role: Data Analyst.<br>
 🧠 Interests:  Data Analysis, Business Intelligence.<br>
 💻 Languages : Python , Power Bi, MySQL, PostgreSQL,Excel (Power Query, DAX), HTML, CSS, JavaScript,VSCode.
 </p>
