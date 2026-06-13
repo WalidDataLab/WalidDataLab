@@ -104,7 +104,7 @@
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="28" height="28"/> Advanced Excel
+## <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="28" height="28"/> Advanced Excel
 
 - **Advanced Formulas:** XLOOKUP, VLOOKUP, INDEX-MATCH
 - **Automation:** VBA scripting, xlwings, OpenPyXL
