@@ -6,7 +6,7 @@
 🔧 Tech enthusiast since 2009 (started with phones softweare).<br>
 📺 Tech YouTuber behind <a href="https://www.youtube.com/qarinly">Qarinly</a> <br>
 🧠 Analysis and problem solving are my principles — helping people make the right decisions is my happiness.<br>
-🌍 Based in France — aspiring Data Analyst → future Data Scientist.
+🌍 Based in France — Data Analyst → future Data Scientist.
 </p>
 
 ---
