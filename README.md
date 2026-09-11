@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Walid ! Data Analyst </h1>
+<h1 align="center">👋 Hey there, I'm Walid ! Business Data Analyst </h1>
 
 <p align="center">
 📊 Étudiant en Master 2 MSI – Humain et System Intelligence à l’IAE Lyon 3, à la recherche d’une alternance à partir de septembre.<br>
@@ -6,7 +6,7 @@
 🔧 Tech enthusiast since 2009 (started with phones softweare).<br>
 📺 Tech YouTuber behind <a href="https://www.youtube.com/qarinly">Qarinly</a> <br>
 🧠 Analysis and problem solving are my principles — helping people make the right decisions is my happiness.<br>
-🌍 Based in France — Data Analyst → future Data Scientist.
+🌍 Based in France.
 </p>
 
 ---
@@ -14,7 +14,7 @@
 <h2 align="left">🧑‍💻 About Me</h2>
 
 <p align="left">
-💼 Role: Data Analyst.<br>
+💼 Role: Business Data Analyst.<br>
 🧠 Interests:  Data Analysis, Business Intelligence.<br>
 💻 Languages : MySQL, PostgreSQL, Power Bi, Python, Excel (Power Query, DAX), HTML, CSS, JavaScript,VSCode.
 </p>
