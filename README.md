@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Walid ! Business Data Analyst </h1>
+<h1 align="center">👋 Hey there, I'm Walid ! Junior Data & BI Analyst </h1>
 
 <p align="center">
 📊 Étudiant en Master 2 MSI – Humain et System Intelligence à l’IAE Lyon 3, à la recherche d’une alternance à partir de septembre.<br>
