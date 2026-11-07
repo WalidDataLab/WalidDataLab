@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Walid ! Junior Data & BI Analyst </h1>
 
 <p align="center">
-📊 Étudiant en Master 2 MSI – Humain et System Intelligence à l’IAE Lyon 3, à la recherche d’une alternance à partir de septembre.<br>
+📊 Étudiant en Master 2 MSI – Humain et System Intelligence à l’IAE Lyon 3, à la recherche d’un stage.<br>
 🎓 Economics graduate with an accounting background.<br>
 🔧 Tech enthusiast since 2009 (started with phones softweare).<br>
 📺 Tech YouTuber behind <a href="https://www.youtube.com/qarinly">Qarinly</a> <br>
